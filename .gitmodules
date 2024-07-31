@@ -1,0 +1,12 @@
+[submodule "http://localhost:2222"]
+	path = http://localhost:2222
+	url = https://github.com/navalboyblue/vscidl
+[submodule "http://localhost:36900:36900"]
+	path = http://localhost:36900:36900
+	url = https://github.com/navalboyblue/vscidl
+[submodule "localhost:2222:2222"]
+	path = localhost:2222:2222
+	url = https://github.com/navalboyblue/vscidl
+[submodule "localhost:2222"]
+	path = localhost:2222
+	url = https://github.com/navalboyblue/vscidl
