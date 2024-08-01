@@ -10,3 +10,6 @@
 [submodule "localhost:2222"]
 	path = localhost:2222
 	url = https://github.com/navalboyblue/vscidl
+[submodule "vscidl"]
+	path = vscidl
+	url = https://cthenderson86@github.com/cthenderson86/vscidl
